@@ -6,7 +6,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-screen w-full flex items-center justify-center text-center">
 
-        <div className="relative z-10 px-4 max-w-4xl mx-auto flex flex-col items-center gap-6">
+        <div className="relative z-10 px-4 max-w-4xl mx-auto flex flex-col items-center gap-6 pt-48 md:pt-0">
           <span className="text-gray-200 text-lg uppercase tracking-widest font-medium font-display">
             Empower Your Finances
           </span>
